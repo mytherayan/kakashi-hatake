@@ -2,7 +2,7 @@
 
 import { CloudLightningIcon as Lightning, Eye, Scroll, Users, Brain, Shield } from 'lucide-react'
 import { motion } from 'framer-motion'
-import { PieChart, Pie, Cell, ResponsiveContainer, Legend, Tooltip } from 'recharts'
+import { PieChart, Pie, Cell, ResponsiveContainer, Legend } from 'recharts'
 import { ChartContainer, ChartTooltip, ChartTooltipContent } from "@/components/ui/chart"
 
 const skills = [

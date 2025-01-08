@@ -1,7 +1,7 @@
 'use client'
 
 import Link from 'next/link'
-import { Scroll, User, Briefcase, BookOpen, PieChart, Users } from 'lucide-react'
+import {  User, Briefcase, BookOpen, PieChart, Users } from 'lucide-react'
 import { motion } from 'framer-motion'
 
 export function Header() {

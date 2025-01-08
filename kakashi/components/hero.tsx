@@ -24,7 +24,7 @@ export function Hero() {
           Known for my Sharingan eye and mastery of over a thousand jutsu.
         </p>
         <p className="mb-8  opacity-90">
-          I'm a skilled ninja committed to protecting the Hidden Leaf Village and mentoring the next generation.
+          I’m a skilled ninja committed to protecting the Hidden Leaf Village and mentoring the next generation.
         </p>
       </div>
       <motion.a
